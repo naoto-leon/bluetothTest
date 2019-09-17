@@ -1,5 +1,5 @@
 # Bluetooth_Test
-バカでも出来るESP32によるブルートース接続
+誰でも出来るESP32によるブルートース接続
 ESP32 Bluetooth   
 
 <img width="300" alt="esptop" src="https://user-images.githubusercontent.com/43961147/65029327-81e3be80-d978-11e9-91eb-f43ca7172b08.png">
