@@ -12,6 +12,8 @@ ESP32 Bluetooth
 ### [1]arduinoの環境設定を開き追加のポートマネージャーに下記のURLをコピペ  
 [https://dl.espressif.com/dl/package_esp32_index.json]  
 
+<img width="400" alt="esp1" src="https://user-images.githubusercontent.com/43961147/65027941-2a445380-d976-11e9-9b6e-c9d299d10377.png">
+
 ### [2]ボードマネージャーを開き、検索にespを入力。esp32 by Espressif Systemsをインストール。  
 
 ### [3]ポート認識の為に下記のurlより適当なドライバをインストール。  
