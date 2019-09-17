@@ -5,6 +5,7 @@ ESP32 Bluetooth
 ### -環境-  
 
 #### □ ＥＳＰ－ＷＲＯＯＭ－３２Ｄ  
+#### □ ブレッドボード  
 #### □ Mac  
 #### □ Arduino  
 
@@ -37,5 +38,16 @@ https://jp.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp
     delay(1000);
     }
 
-### [6]
+### [6] 自身のpcのBluetooth設定を開きESP32に接続  
+
+### [7] 再度シリアルポートを開きESP32に接続    
+
+### [8] シリアルモニタを開き通信を確認。  
+
+
+
+### [補足]  
+
+電源供給をpcからでなく充電バッテリーとかに変えればBlueTooth接続をより確認出来るかと思います。  
+
 
