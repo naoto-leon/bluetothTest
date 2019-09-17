@@ -16,10 +16,15 @@ ESP32 Bluetooth
 
 ### [2]ボードマネージャーを開き、検索にespを入力。esp32 by Espressif Systemsをインストール。  
 
+<img width="400" alt="esp2" src="https://user-images.githubusercontent.com/43961147/65027946-2b758080-d976-11e9-9196-b6e63629efb7.png">
+
 ### [3]ポート認識の為に下記のurlより適当なドライバをインストール。  
 https://jp.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers  
 
+
 ### [4]ポート認識がされるので、自身のポートを選択。  
+
+<img width="400" alt="esp3" src="https://user-images.githubusercontent.com/43961147/65027948-2ca6ad80-d976-11e9-99f6-65c36afac4f0.png">
 
 ### [5]下記のコードをコピペ、検証、マイコンに書き込む。  
 
@@ -42,14 +47,26 @@ https://jp.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp
 
 ### [6] 自身のpcのBluetooth設定を開きESP32に接続  
 
+
+
 ### [7] 再度シリアルポートを開きESP32に接続    
+
+<img width="400" alt="esp5" src="https://user-images.githubusercontent.com/43961147/65027961-316b6180-d976-11e9-8702-57e0bec16c28.png">
 
 ### [8] シリアルモニタを開き通信を確認。  
 
-
+<img width="400" alt="esp6" src="https://user-images.githubusercontent.com/43961147/65027963-329c8e80-d976-11e9-8194-5e75822f8cc9.png">
 
 ### [補足]  
 
 電源供給をpcからでなく充電バッテリーとかに変えればBlueTooth接続をより確認出来るかと思います。  
+
+
+
+
+
+
+
+
 
 
